@@ -23,6 +23,7 @@ order: 4
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arikaran-s-2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arikaran-s-2001" height="30" width="40" /></a>
+<a href="https://github.com/arikaran-13" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/fearlessari1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fearlessari1302" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/arikaran13021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arikaran13021" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arikaran1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arikaran1302" height="30" width="40" /></a>
