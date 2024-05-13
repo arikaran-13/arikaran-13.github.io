@@ -6,7 +6,7 @@ tag: [java , spring boot]
 image:
   path: /assets/images/spring_boot.png
 ---
-# Getting started with Spring Boot
+# Introduction
 
 Spring Boot is a Java framework used for backend development. It's popular for enabling the rapid development of production-ready web applications with minimal configuration.
 
@@ -23,6 +23,8 @@ There are several advantages to using Spring Boot that contribute to its status 
 4. **Embedded web servers**: Spring Boot includes embedded web servers, making it effortless to develop and deploy applications. Without embedded servers, deploying to external web servers would require writing extensive XML configurations.
 
 5. **Large community**: Spring Boot boasts a vast community, which significantly eases the developer's life. If stuck, there's ample support available.
+
+# Project setup
 
 Setting up your first Spring Boot project is straightforward:
 
@@ -72,7 +74,7 @@ public class DemoApplication {
 
 - Write a simple HTTP GET request that returns a string, such as "Hello, World!".
 
-### ref:
+**Ref**:
 
 ![A screenshot](/assets/images/DummyController.png)
  
