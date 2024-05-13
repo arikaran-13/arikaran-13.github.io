@@ -3,7 +3,6 @@ title: Getting started with Spring boot
 date: 2024-05-13 10.10PM
 categories: [spring boot]
 tag: [java , spring boot]
-author: Arikaran S
 image:
   path: /assets/images/spring_boot.png
 ---
