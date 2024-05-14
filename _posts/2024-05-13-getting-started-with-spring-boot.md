@@ -32,13 +32,13 @@ Setting up your first Spring Boot project is straightforward:
 
 - Fill in the group, artifact name, package name, select packaging type as JAR, and choose dependencies like Spring Web.
 
-![A screenshot](/assets/images/spring_io.png)
+![screenshot](/assets/images/spring_io.png)
 
 - Click "Generate Project" to download the zip file, which contains your project. Open it in your preferred IDE (e.g., STS, IntelliJ).
 
 Once your project is open, you'll see the following folder structure:
 
-![A screenshot](/assets/images/spring_folder_structure.png)
+![Folder structure](/assets/images/spring_folder_structure.png)
 
 - **src**: Divided into two subfolders: "main" and "test".
     - **main**: Development code resides here. Configuration files and resources can be added to the "resources" subfolder.
@@ -76,5 +76,5 @@ public class DemoApplication {
 
 **Ref**:
 
-![A screenshot](/assets/images/DummyController.png)
+![DummyController.java](/assets/images/DummyController.png)
  
