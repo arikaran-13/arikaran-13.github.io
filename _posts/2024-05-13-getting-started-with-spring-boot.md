@@ -6,7 +6,7 @@ tag: [java , spring boot]
 image:
   path: /assets/images/spring_boot.png
 ---
-# Introduction
+## Introduction
 
 Spring Boot is a Java framework used for backend development. It's popular for enabling the rapid development of production-ready web applications with minimal configuration.
 
@@ -24,11 +24,11 @@ There are several advantages to using Spring Boot that contribute to its status 
 
 5. **Large community**: Spring Boot boasts a vast community, which significantly eases the developer's life. If stuck, there's ample support available.
 
-# Project setup
+## Project setup
 
 Setting up your first Spring Boot project is straightforward:
 
-- Open your favorite browser and search for "Spring Initializer" (https://start.spring.io/).
+- Open your favorite browser and search for [Spring Initializer](https://start.spring.io/).
 
 - Fill in the group, artifact name, package name, select packaging type as JAR, and choose dependencies like Spring Web.
 
