@@ -74,7 +74,10 @@ public class DemoApplication {
 
 - Write a simple HTTP GET request that returns a string, such as "Hello, World!".
 
+Then start the application and make a GET request using the configured endpoint:http://localhost:8080/test, it will returns the string as response:  Hello world
+
 **Ref**:
 
 ![DummyController.java](/assets/images/DummyController.png)
- 
+
+ "Thank you for taking the time to explore this blog. I hope this guide has been helpful in understanding how to get started with Spring Boot. **Happy coding!**"
