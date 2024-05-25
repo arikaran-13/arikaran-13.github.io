@@ -30,7 +30,7 @@ Let's see the customer and address example in code to understand the types of on
 ### Unidirectional One-To-One Relationship
 
 #### 1. Create a Spring Project
-using [start.spring.io](http://start.spring.io) with the following dependencies:
+using [start.spring.io](https://start.spring.io) with the following dependencies:
 
 ```xml
 <dependencies>
