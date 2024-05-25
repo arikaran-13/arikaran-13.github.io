@@ -481,3 +481,5 @@ Item.java
     @ManyToMany(mappedBy = "itemSet")
     private Set<Customer> customers;
 ```
+
+"Thank you for taking the time to explore entity relationships with Spring Data JPA. I hope this guide has been helpful in understanding how to implement and manage relationships in your Java applications. **Happy coding!**"
