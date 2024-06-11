@@ -9,7 +9,7 @@ order: 6
 ## 1) ChuckleCart
 
 <p >
-  <img src="assets/images/projects/chucklecart/logo.png" height="300" width="300"/>
+  <img src="assets/images/projects/chucklecart/logo.png" height="300" width="300" alt="chucklecart_logo"/>
 </p>
 
 ChuckleCart is a full-stack e-commerce app with a simple set of features. Users can purchase products by selecting filters for specific categories, while sellers or admins can upload products to the site. The frontend is built using Angular, and the backend is built using Spring Boot with Spring Security.
