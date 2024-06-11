@@ -55,12 +55,9 @@ Follow these steps to set up ChuckleCart locally:
 
 ## Screenshots
 
-<img src="assets/images/projects/chucklecart/1.png"/>
-<!-- <img src="assets/images/projects/chucklecart/6.png"/> -->
-<!-- <img src="assets/images/projects/chucklecart/4.png"/> -->
-<img src="assets/images/projects/chucklecart/2.png"/>
-<img src="assets/images/projects/chucklecart/3.png"/>
-<!-- <img src="assets/images/projects/chucklecart/5.png"/> -->
+<img src="assets/images/projects/chucklecart/1.png" alt="demo-image-1"/>
+<img src="assets/images/projects/chucklecart/2.png" alt="demo-image-2"/>
+<img src="assets/images/projects/chucklecart/3.png" alt="demo-image-3"/>
 
 ## Demo
 
