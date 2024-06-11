@@ -1,0 +1,9 @@
+- title: Project 1
+  url: /projects/project1.html
+  image: /assets/images/spring_io.png
+  description: This is the description of Project 1.
+
+- title: Project 2
+  url: /projects/project2/
+  image: /assets/images/project2.jpg
+  description: This is the description of Project 2.
